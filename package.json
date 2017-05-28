@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-strip-extra-flow-import",
+  "version": "1.0.0",
+  "description": "A babel plugin to remove `import` statement completely when only flow types are imported",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeusTheTrueGod/babel-plugin-strip-extra-flow-import.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeusTheTrueGod/babel-plugin-strip-extra-flow-import/issues"
+  },
+  "homepage": "https://github.com/ZeusTheTrueGod/babel-plugin-strip-extra-flow-import#readme",
+  "engines" : { "node" : ">=7.6" }
+}
